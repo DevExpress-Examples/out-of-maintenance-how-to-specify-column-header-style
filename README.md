@@ -1,1 +1,1 @@
-# how-to-specify-column-header-style
+# How to Specify Column Header Style
