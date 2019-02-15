@@ -13,7 +13,7 @@
                 <dxg:GridColumn FieldName="Description" />
             </dxg:GridControl.Columns>
             <dxg:GridControl.View>
-                <dxg:TableView EnableSelectedRowAppearance="False">
+                <dxg:TableView>
                     <dxg:TableView.ColumnHeaderStyle>
                         <Style TargetType="dxg:BaseGridHeader">
                             <Setter Property="dxg:BaseGridColumnHeader.ShowFilterButtonOnHover" Value="False" />
